@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "acceuil",
+			"path": "."
+		},
+		{
+			"name": "groupe",
+			"path": "..\\groupe"
+		},
+		{
+			"name": "membre",
+			"path": "..\\membre"
+		},
+		{
+			"name": "montant",
+			"path": "..\\montant"
+		},
+		{
+			"name": "operation",
+			"path": "..\\operation"
+		},
+		{
+			"name": "tontine",
+			"path": "..\\tontine"
+		}
+	],
+	"settings": {}
+}
